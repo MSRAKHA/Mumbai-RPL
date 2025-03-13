@@ -85,7 +85,6 @@ opt-einsum==3.3.0
 orjson==3.10.15
 packaging==24.2
 paddleocr==2.10.0
-paddlepaddle==3.0.0rc1
 pandas==2.2.3
 pdfkit==1.0.0
 pillow==10.4.0

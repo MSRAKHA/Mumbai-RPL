@@ -1,0 +1,36 @@
+/* styles.css */
+.input-field {
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    padding: 8px;
+    margin: 4px;
+    display: inline-block;
+}
+
+.gradio-container {
+    background-color: #f8f9fa;
+}
+
+.gr-box {
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 10px;
+    background-color: white;
+}
+
+.gr-button {
+    border-radius: 8px;
+    transition: transform 0.2s;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.gr-button:hover {
+    transform: translateY(-2px);
+}
+
+label {
+    display: inline-block;
+    margin-right: 8px;
+}

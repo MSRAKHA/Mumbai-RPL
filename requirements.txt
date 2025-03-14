@@ -1,7 +1,7 @@
-gradio==3.0.0  # Replace with the actual version you are using
-pandas==1.5.0  # Replace with the actual version you are using
-Pillow==9.0.0  # Replace with the actual version you are using
-groq==0.1.0    # Replace with the actual version you are using
-langchain==0.0.1  # Replace with the actual version you are using
-pydantic==1.10.0  # Replace with the actual version you are using
-openpyxl==3.0.9  # Replace with the actual version you are using
+gradio
+pandas 
+Pillow
+groq
+langchain  
+pydantic
+openpyxl
